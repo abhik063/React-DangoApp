@@ -8,3 +8,4 @@ This app is written in Django web frameworks as backend and React frontend.
 4. reverse.py reverses the audio file and store it in media.
 5. The recorded audio can be heard in the web.
 
+<img src="app.gif">
